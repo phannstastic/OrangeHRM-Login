@@ -16,3 +16,9 @@ It includes test cases for valid and invalid login attempts and a test suite to 
 ## 🚀 Test Suite
 - `LoginTestSuites`: Executes all three test cases in sequence
 - Results can be viewed directly after execution or exported
+
+## ▶️ How to Run
+1. Clone or download this repo  
+2. Open the project in **Katalon Studio**
+3. Open `Test Suites/LoginTestSuites`
+4. Click the **Run** button using Chrome
